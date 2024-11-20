@@ -1,12 +1,10 @@
-# *Vector Dot-Product Implementation*
+# *Vector Dot-Product Implementation using Python*
 
 Welcome to the implementation of the *vector dot-product algorithm*. This repository includes:
 
 - The *mathematical expression* of the dot product.
 - A *code snippet* showcasing the implementation.
 - A *diagram* to visualize the operation.
-- A *table* comparing various versions of the algorithm.
-- All Markdown elements utilized as part of this documentation.
 
 ---
 

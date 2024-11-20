@@ -23,11 +23,12 @@ $$
 Below is a Python implementation of the vector dot-product algorithm:
 
 python
+```
 def dot_product(vector_a, vector_b):
     if len(vector_a) != len(vector_b):
         raise ValueError("Vectors must be of the same length")
     return sum(a * b for a, b in zip(vector_a, vector_b))
-
+```
 # Example usage:
 vector_a = [1, 2, 3]
 vector_b = [4, 5, 6]

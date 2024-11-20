@@ -14,9 +14,9 @@ Welcome to the implementation of the *vector dot-product algorithm*. This reposi
 
 The dot product is a mathematical operation that takes two equal-length sequences of numbers (vectors) and returns a single number. It is defined mathematically as:
 
-$
+$$
 \mathbf{a} \cdot \mathbf{b} = \sum_{i=1}^n a_i b_i
-$
+$$
 
 ## *Code Implementation*
 
@@ -42,7 +42,7 @@ print("Dot Product:", result)
 
 ---
 
-![Flag of India](Flag_of_India.png)
+![Dot Product](imageFile.png)
 
 ---
 
